@@ -47,4 +47,4 @@ python Cipher_main.py
 ```
 
 ## Screenshots
-![Screenshot of my app](images/screenshot.png)
+![Screenshot of my app](https://github.com/SubaashNair/Caesar-Cipher-GUI/blob/main/Screenshot%202023-05-16.png)
