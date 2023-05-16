@@ -3,7 +3,6 @@
 [![Python](https://img.shields.io/badge/python-v11+-blue.svg)](https://www.python.org)
 [![Tkinter](https://img.shields.io/badge/library-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
 [![GitHub issues](https://img.shields.io/github/issues/SubaashNair/Caesar-Cipher-GUI)](https://GitHub.com/SubaashNair/Caesar-Cipher-GUI/issues/)
-[![GitHub license](https://img.shields.io/github/license/SubaashNair/Caesar-Cipher-GUI)](https://github.com/SubaashNair/Caesar-Cipher-GUI/blob/main/LICENSE)
 
 A simple GUI-based Caesar Cipher application built with Python and Tkinter.
 
