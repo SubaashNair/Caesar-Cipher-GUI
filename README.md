@@ -17,7 +17,7 @@ A simple GUI-based Caesar Cipher application built with Python, Tkinter, and PyQ
 
 This project uses Python 11 and pipenv for managing dependencies.
 
-1. Make sure you have [Python 11](https://www.python.org/downloads/) installed.
+1. Make sure you have [Python 3.11](https://www.python.org/downloads/) installed.
 2. Install pipenv if you haven't yet:
     ```bash
     pip install pipenv
