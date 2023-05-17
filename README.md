@@ -55,8 +55,8 @@ python Cipher_main_pyqt6.py
 
 ## Screenshots
 ### Tkinter GUI
-![Screenshot of tkinter app](https://github.com/SubaashNair/Caesar-Cipher-GUI/blob/main/Screenshot%202023-05-16.png)
+![Screenshot of tkinter app](https://github.com/SubaashNair/Caesar-Cipher-GUI/blob/main/Cipher_main_image.png)
 
 ### pyQt6 GUI
-![Screenshot of Qt app](https://github.com/SubaashNair/Caesar-Cipher-GUI/blob/main/Screenshot%202023-05-16.png)
+![Screenshot of Qt app](https://github.com/SubaashNair/Caesar-Cipher-GUI/blob/main/cipherQt_image.png)
 
