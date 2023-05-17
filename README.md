@@ -1,6 +1,6 @@
 # Caesar Cipher GUI
 
-[![Python](https://img.shields.io/badge/python-v11+-blue.svg)](https://www.python.org)
+[![Python](https://img.shields.io/badge/python-v3.11+-blue.svg)](https://www.python.org)
 [![Tkinter](https://img.shields.io/badge/library-Tkinter-orange)](https://docs.python.org/3/library/tkinter.html)
 [![PyQt6](https://img.shields.io/badge/library-PyQt6-green)](https://www.riverbankcomputing.com/static/Docs/PyQt6/)
 [![GitHub issues](https://img.shields.io/github/issues/SubaashNair/Caesar-Cipher-GUI)](https://GitHub.com/SubaashNair/Caesar-Cipher-GUI/issues/)
